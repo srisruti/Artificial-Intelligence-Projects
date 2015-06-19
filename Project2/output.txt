@@ -1,0 +1,66 @@
+=====REFLEX AGENT=====
+Open classic Board: 
+
+Pacman emerges victorious! Score: 1238
+Pacman emerges victorious! Score: 1248
+Pacman emerges victorious! Score: 1235
+Pacman emerges victorious! Score: 1243
+Pacman emerges victorious! Score: 1225
+Pacman emerges victorious! Score: 1231
+Pacman emerges victorious! Score: 1248
+Pacman emerges victorious! Score: 1243
+Pacman emerges victorious! Score: 1244
+Pacman emerges victorious! Score: 1247
+Average Score: 1240.2
+Scores:        1238.0, 1248.0, 1235.0, 1243.0, 1225.0, 1231.0, 1248.0, 1243.0, 1244.0, 1247.0
+Win Rate:      10/10 (1.00)
+Record:        Win, Win, Win, Win, Win, Win, Win, Win, Win, Win
+Running time for ReflexAgent : 147.686145067 seconds
+
+
+=====MINIMAX AGENT=====
+Small Classic Board: Depth 4
+
+Sample Output:
+
+Pacman emerges victorious! Score: 1347
+Pacman died! Score: -117
+Pacman died! Score: -96
+Pacman died! Score: 309
+Pacman died! Score: -108
+Pacman emerges victorious! Score: 928
+Pacman emerges victorious! Score: 894
+Pacman emerges victorious! Score: 946
+Pacman emerges victorious! Score: 917
+Pacman emerges victorious! Score: 1348
+Average Score: 636.8
+Scores:        1347.0, -117.0, -96.0, 309.0, -108.0, 928, 894.0, 946.0, 917.0, 1348.0
+Win Rate:      6/10 (0.60)
+Record:        Win, Loss, Loss, Loss, Loss, Win, Win, Win, Win, Win
+Running time for MinimaxAgent : 367.519546986 seconds 
+
+=====ALPHABETA AGENT=====
+Small Classic Board: Depth 4
+
+Sample output:
+
+Pacman emerges victorious! Score: 1038
+Pacman died! Score: -226
+Pacman emerges victorious! Score: 966
+Pacman emerges victorious! Score: 1338
+Pacman died! Score: -374
+Pacman died! Score: 384
+Pacman emerges victorious! Score: 1321
+Pacman emerges victorious! Score: 1388
+Pacman emerges victorious! Score: 873
+Pacman died! Score: -132
+Average Score: 657.6
+Scores:        1038.0, -226.0, 966.0, 1338.0, -374.0, 384.0, 1321.0, 1388.0, 873.0, -132.0
+Win Rate:      6/10 (0.60)
+Record:        Win, Loss, Win, Win, Loss, Loss, Win, Win, Win, Loss
+Running time for AlphaBetaAgent : 337.006020069 seconds
+
+
+
+
+
